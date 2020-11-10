@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**itamarjp/itamarjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer
+
+You can find my contact Methods [here](www.linkedin.com/in/itamarjp)
 
 Here are some ideas to get you started:
 
