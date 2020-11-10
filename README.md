@@ -2,7 +2,7 @@
 
 Software Developer
 
-You can find my contact Methods [here](www.linkedin.com/in/itamarjp)
+You can find my contact Methods [here](https://www.linkedin.com/in/itamarjp)
 
 Here are some ideas to get you started:
 
